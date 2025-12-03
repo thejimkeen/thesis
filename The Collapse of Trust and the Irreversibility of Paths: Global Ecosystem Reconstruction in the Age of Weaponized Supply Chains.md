@@ -1,6 +1,9 @@
 
 **Title: The Collapse of Trust and the Irreversibility of Paths: Global Ecosystem Reconstruction in the Age of Weaponized Supply Chains**
 
+
+**Author：Jim Keen**
+
 **Abstract:**
 The foundational logic behind the rise of a "World Factory" lies not merely in the comparative advantage of factor costs, but in the institutional trust and certainty of supply established through commercial contracts. However, when commercial issues yield to geopolitical maneuvering and supply cutoffs are deployed as a strategy of "flipping the table," the underlying logic of global trade shifts abruptly from "efficiency first" to "security first." This paper argues that the collapse of trust caused by political intervention compels demand-side actors to incur high sunk costs to reconstruct supply chains. This reconstruction process exhibits a profound "Hysteresis Effect," ultimately resulting in the irreversible substitution and marginalization of the original dominant suppliers.
 

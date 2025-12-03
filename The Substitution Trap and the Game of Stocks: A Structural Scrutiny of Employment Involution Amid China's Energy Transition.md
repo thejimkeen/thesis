@@ -2,6 +2,8 @@
 
 **Title: The Substitution Trap and the Game of Stocks: A Structural Scrutiny of Employment Involution Amid China's Energy Transition**
 
+**Author：Jim Keen**
+
 **Abstract:**
 The current radical transformation of China's energy industry represents not merely a technological succession from "old growth drivers" to "new quality productive forces," but a profound restructuring of the labor market. By contrasting the employment realities of the coal and photovoltaic (PV) sectors, this paper reveals the essential characteristic of current economic growth: "substitutive employment" masking the lack of "incremental employment." Under the dual squeeze of insufficient effective demand and technological advancement (AI and automation), the spillover of labor from productive sectors into low-end services has triggered an "involutionary" zero-sum game within a finite market stock. This structural friction constitutes the micro-foundation of the current deflationary spiral.
 

@@ -1,6 +1,9 @@
 
 **Title: Seed Capital and the Ownership Utopia: A Political-Economic Scrutiny of 'Trump Accounts' and Asset-Based Welfare**
 
+
+**Author：Jim Keen**
+
 **Abstract:**
 As artificial intelligence and automation relentlessly compress the value of traditional labor, conventional "employment-oriented" social security systems face obsolescence. The $6.25 billion donation by Michael and Susan Dell, alongside the Trump administration's "Big and Beautiful Act," signals a paradigm shift in American social policy: from flow-based "Universal Basic Income" (UBI) to stock-based "Universal Basic Capital" (UBC). This essay examines the logic behind this "asset-centric" welfare model: endowing the new generation with micro-capital, leveraging compound interest against class solidification, and attempting to find a material carrier for the "garage startup" narrative in the algorithmic age via financialized means.
 
